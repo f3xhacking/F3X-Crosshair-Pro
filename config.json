@@ -1,7 +1,17 @@
 {
   "latest_version": "1.0.0",
-  "valid_code": "f3xv1",
   "force_update": false,
+
+  "device_codes": {
+    "f3xv1": {
+      "uuid": "BD605447-ED2B-11E5-9C43-BC0000500000"
+    },
+
+    "f3xv2": {
+      "uuid": "ضع UUID الجهاز الثاني هنا"
+    }
+  },
+
   "download_url": "https://t.me/F3x_MD",
   "telegram_url": "https://t.me/F3xVIP"
 }
