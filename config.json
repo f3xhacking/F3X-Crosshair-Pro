@@ -1,22 +1,7 @@
 {
   "latest_version": "1.0.0",
+  "valid_code": "f3xv1",
   "force_update": false,
-  "welcome_title": "Welcome F3X",
-  "welcome_subtitle": "Lifetime Activated",
-  "temporary_welcome_subtitle": "VIP Friend Access",
-  "temporary_codes_path": "temporary_codes",
-  "device_codes": {
-    "ADMIN_CODE": {
-      "type": "ADMIN",
-      "title": "Admin",
-      "uuid": "BD605447-ED2B-11E5-9C43-BC0000500000"
-    },
-    "VIP_CODE": {
-      "type": "VIP",
-      "title": "VIP",
-      "uuid": "YOUR_VIP_DEVICE_UUID"
-    }
-  },
   "download_url": "https://t.me/F3x_MD",
   "telegram_url": "https://t.me/F3xVIP"
 }
