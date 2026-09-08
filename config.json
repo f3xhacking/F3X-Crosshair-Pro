@@ -10,8 +10,8 @@
 
   "device_codes": {
     "ADMIN": {
-      "type": "ADMIN",
-      "title": "Admin",
+      "type": "F3XV1",
+      "title": "f3xv1",
       "uuid": "BD605447-ED2B-11E5-9C43-BC0000500000"
     },
 
