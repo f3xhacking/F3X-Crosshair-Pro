@@ -9,13 +9,13 @@
   "temporary_codes_path": "temporary_codes",
 
   "device_codes": {
-    "ADMIN_CODE": {
+    "ADMIN": {
       "type": "ADMIN",
       "title": "Admin",
       "uuid": "BD605447-ED2B-11E5-9C43-BC0000500000"
     },
 
-    "VIP_CODE": {
+    "VIP": {
       "type": "VIP",
       "title": "VIP",
       "uuid": "YOUR_VIP_DEVICE_UUID"
