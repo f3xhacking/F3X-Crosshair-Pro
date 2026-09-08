@@ -9,15 +9,15 @@
   "temporary_codes_path": "temporary_codes",
 
   "device_codes": {
-    "F3XV1": {
+    "ADMIN": {
       "type": "F3XV1",
       "title": "f3xv1",
       "uuid": "BD605447-ED2B-11E5-9C43-BC0000500000"
     },
 
     "VIP": {
-      "type": "VIP",
-      "title": "VIP",
+      "type": "RA1ZOO",
+      "title": "ra1zoo",
       "uuid": "YOUR_VIP_DEVICE_UUID"
     }
   },
